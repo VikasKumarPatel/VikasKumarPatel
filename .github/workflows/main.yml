@@ -20,3 +20,4 @@ jobs:
             echo "Response body:"
             echo "$response"
           done
+          echo $URLS
