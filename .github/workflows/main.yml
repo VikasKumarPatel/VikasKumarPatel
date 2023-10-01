@@ -12,12 +12,9 @@ jobs:
     steps:
       - name: Fetch Request
         env:
-          URLS: '["https://placementcsbhu.onrender.com", "https://place.onrender.com", "https://placementcsbhu.onrender.com"]'
+          URLS: '["https://placementcsbhu.onrender.com", "https://google.com"]'
         run: |
           for url in $(echo $URLS | jq -r '.[]'); do
             echo "Sending GET request to $url"
             response=$(curl -s $url)
-            echo "Response body:"
-            echo "$response"
           done
-          echo $URLS
