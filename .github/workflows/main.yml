@@ -2,7 +2,8 @@ name: Make URLs Active
 
 on:
   schedule:
-    - cron: '*/10 * * * *'
+    - cron: '*/20 * * * *'
+    workflow_dispatch:
 
 jobs:
   build:
@@ -14,5 +15,8 @@ jobs:
           URLS: ${{secrets.URLS}}
         run: |
           for url in $(echo $URLS | jq -r '.[]'); do
-            curl $url
+            echo "Sending GET request to $url"
+            response=$(curl -s $url)
+            echo "Response body:"
+            echo "$response"
           done
