@@ -12,7 +12,7 @@ jobs:
     steps:
       - name: Fetch Request
         env:
-          URLS: ${{secrets.URLS}}
+          URLS: '["https://placementcsbhu.onrender.com", "https://place.onrender.com", "https://placementcsbhu.onrender.com"]'
         run: |
           for url in $(echo $URLS | jq -r '.[]'); do
             echo "Sending GET request to $url"
