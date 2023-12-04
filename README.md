@@ -17,6 +17,14 @@ Learning ![GoLang](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-b
   <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikaskumarpatel&layout=compact&theme=dark"/></a>
 </div>
 
+<div align ="center">
+  <!-- Github Statistics -->
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=vikaskumarpatel&theme=gruvbox"/></a>
+  
+  <!-- Top Lanaguage -->
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikaskumarpatel&layout=compact&theme=dark"/></a>
+</div>
+
 ## Education
 
 | Degree Name                         | University               | Status         |
