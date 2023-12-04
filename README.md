@@ -9,11 +9,19 @@ Learning ![GoLang](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-b
 [![@vikaskumarpatel1080](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vikaskumarpatel1080/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vikaspatelmail@gmail.com)  [![@vikaspatel0779](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/vikaspatel0779/) [![cyberguardian](https://img.shields.io/badge/CyberGuardian-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/cyberguardian) [![Instagram](https://img.shields.io/badge/@haccrac-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/haccrac/) 
 <!-- ![My Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) -->
 
+<div align ="center">
+  <!-- Github Statistics -->
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=vikaskumarpatel&theme=gruvbox"/></a>
+  
+  <!-- Top Lanaguage -->
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikaskumarpatel&layout=compact&theme=dark"/></a>
+</div>
+
 ## Education
 
 | Degree Name                         | University               | Status         |
 | ----------------------------------- | ------------------------ | -------------- |
-| Master in Computer Applications     | Banaras Hindu University | Pursuing       |
+| Master in Computer Applications     | Banaras Hindu University | Passed in 2023 |
 | Bachelors in Computer Science Hons. | Banaras Hindu University | Passed in 2021 |
 
 ## Work Experience/Technology known
